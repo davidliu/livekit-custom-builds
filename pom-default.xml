@@ -35,7 +35,7 @@
   <dependencies>
     <dependency>
       <groupId>com.davidliu</groupId>
-      <artifactId>webrtc</artifactId>
+      <artifactId>webrtc-custom-builds</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
