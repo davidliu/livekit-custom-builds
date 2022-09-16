@@ -34,9 +34,9 @@
   </scm>
   <dependencies>
     <dependency>
-      <groupId>com.github.webrtc-sdk</groupId>
-      <artifactId>android</artifactId>
-      <version>93.4577.01</version>
+      <groupId>com.davidliu</groupId>
+      <artifactId>webrtc</artifactId>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
