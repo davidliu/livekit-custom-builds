@@ -34,9 +34,9 @@
   </scm>
   <dependencies>
     <dependency>
-      <groupId>com.davidliu</groupId>
+      <groupId>com.github.davidliu</groupId>
       <artifactId>webrtc-custom-builds</artifactId>
-      <version>ff8dd5aeef</version>
+      <version>cee8c6cafb</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
